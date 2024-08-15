@@ -14,7 +14,7 @@ My fourth project for CreativeHub Miami (US): a responsive landing page for Fron
 - Bootstrap
 - JavaScript
 
- ## Live preview 
+ ## Live Preview 
 
 https://creativehubmiami.com/front-end/
 
